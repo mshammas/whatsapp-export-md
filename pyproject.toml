@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "whatsapp-export-md"
-version = "0.1.0"
+version = "0.1.7"
 description = "Convert WhatsApp exports to Markdown/HTML with media linking/embedding."
 readme = "README.md"
 license = { file = "LICENSE" }
